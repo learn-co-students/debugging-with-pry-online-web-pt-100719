@@ -1,9 +1,8 @@
-# Debugging with Pry
+a# Debugging with Pry
 
 ## Overview
 
 We'll cover Pry, a type of REPL, and discuss how to install and use it to debug a program. 
-
 ## Objectives
 
 1. Explain how Pry is a more flexible REPL than IRB. 
